@@ -10,6 +10,7 @@
             type="com.udacity.shoestore.models.Shoe" />
 
     </data>
+    <!--   Constraint_layout is used  because it makes easier to place  in right position -->
 
     <androidx.constraintlayout.widget.ConstraintLayout
         android:layout_width="match_parent"

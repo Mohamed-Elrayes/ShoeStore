@@ -5,7 +5,7 @@
     <data>
 
     </data>
-
+    <!-- I'm using linear layout because all elements are aligned in same direction 'vertical' -->
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"

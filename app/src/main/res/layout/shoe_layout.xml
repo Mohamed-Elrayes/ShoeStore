@@ -13,7 +13,7 @@
     <androidx.constraintlayout.widget.ConstraintLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent">
-
+        <!-- I'm using linear layout because all elements are aligned in same direction 'vertical' -->
         <LinearLayout
             android:id="@+id/shoe_linearLayout"
             android:layout_width="match_parent"

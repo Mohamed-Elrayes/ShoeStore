@@ -7,11 +7,11 @@
     <data>
 
     </data>
-
+    <!--   Constraint_layout is used  because it makes easier to place  in right position -->
     <androidx.constraintlayout.widget.ConstraintLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent">
-
+        <!-- I'm using linear layout because all elements are aligned in same direction 'vertical' -->
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
